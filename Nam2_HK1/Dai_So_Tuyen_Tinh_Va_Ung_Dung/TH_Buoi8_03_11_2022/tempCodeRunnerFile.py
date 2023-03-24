@@ -1,0 +1,1 @@
+print(LA.inv(B))
